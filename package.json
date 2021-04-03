@@ -1,0 +1,23 @@
+{
+  "name": "cjx-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenjianxua/cjx-book.git"
+  },
+  "keywords": [],
+  "author": "chenjianxua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenjianxua/cjx-book/issues"
+  },
+  "homepage": "https://github.com/chenjianxua/cjx-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
